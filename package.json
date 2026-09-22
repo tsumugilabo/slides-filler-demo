@@ -1,0 +1,10 @@
+{
+  "name": "slides-filler-demo",
+  "version": "0.1.0",
+  "description": "スライドテンプレートのプレースホルダを、抽出した値で差し替えて配布用ファイルを書き出すGASプロジェクト",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
