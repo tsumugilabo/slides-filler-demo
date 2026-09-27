@@ -7,4 +7,4 @@ node_modules/
 design/
 
 # 内部向けの作業指示（案件ID・締切など）。公開リストに含めない。
-CLAUDE.md
+AGENTS.md
